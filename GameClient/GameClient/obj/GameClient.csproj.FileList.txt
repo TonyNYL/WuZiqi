@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GameClient.FormPlaying.resources
+obj\Debug\GameClient.FormRoom.resources
+obj\Debug\GameClient.Properties.Resources.resources
+obj\Debug\GameClient.csproj.GenerateResource.Cache
+bin\Debug\GameClient.exe
+bin\Debug\GameClient.pdb
+obj\Debug\GameClient.exe
+obj\Debug\GameClient.pdb
+bin\Debug\black.gif
+bin\Debug\white.gif

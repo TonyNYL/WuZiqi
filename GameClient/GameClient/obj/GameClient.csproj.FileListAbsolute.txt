@@ -1,0 +1,24 @@
+E:\需要处理\书稿相关\第2版《C#网络应用高级编程》\源程序\第3章 TCP\例2-02\GameClient\GameClient\obj\Debug\GameClient.exe
+E:\需要处理\书稿相关\第2版《C#网络应用高级编程》\源程序\第3章 TCP\例2-02\GameClient\GameClient\obj\Debug\GameClient.pdb
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\第3章 TCP应用编程\例3-02 SyncGame\GameClient\GameClient\obj\Debug\GameClient.exe
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\第3章 TCP应用编程\例3-02 SyncGame\GameClient\GameClient\obj\Debug\GameClient.pdb
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\第3章 TCP应用编程\例3-02 SyncGame\GameClient\GameClient\bin\Debug\black.gif
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\第3章 TCP应用编程\例3-02 SyncGame\GameClient\GameClient\bin\Debug\white.gif
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\第3章 TCP应用编程\例3-02 SyncGame\GameClient\GameClient\bin\Debug\GameClient.exe
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\第3章 TCP应用编程\例3-02 SyncGame\GameClient\GameClient\bin\Debug\GameClient.pdb
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\第3章 TCP应用编程\例3-02 SyncGame\GameClient\GameClient\obj\Debug\ResolveAssemblyReference.cache
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\第3章 TCP应用编程\例3-02 SyncGame\GameClient\GameClient\obj\Debug\GameClient.FormPlaying.resources
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\第3章 TCP应用编程\例3-02 SyncGame\GameClient\GameClient\obj\Debug\GameClient.FormRoom.resources
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\第3章 TCP应用编程\例3-02 SyncGame\GameClient\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+E:\mj2008\上课\2008年春网络开发技术\新版源程序\第3章 TCP应用编程\例3-02 SyncGame\GameClient\GameClient\obj\Debug\GameClient.csproj.GenerateResource.Cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\obj\Debug\GameClient.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\obj\Debug\GameClient.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\bin\Debug\black.gif
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\bin\Debug\white.gif
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\bin\Debug\GameClient.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\bin\Debug\GameClient.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\obj\Debug\ResolveAssemblyReference.cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\obj\Debug\GameClient.FormPlaying.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\obj\Debug\GameClient.FormRoom.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\obj\Debug\GameClient.csproj.GenerateResource.Cache

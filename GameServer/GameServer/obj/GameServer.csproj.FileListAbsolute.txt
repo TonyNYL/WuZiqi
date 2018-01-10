@@ -1,0 +1,2 @@
+E:\需要处理\书稿相关\第2版《C#网络应用高级编程》\源程序\第3章 TCP\例2-02\GameServer\GameServer\obj\Debug\GameServer.exe
+E:\需要处理\书稿相关\第2版《C#网络应用高级编程》\源程序\第3章 TCP\例2-02\GameServer\GameServer\obj\Debug\GameServer.pdb

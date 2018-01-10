@@ -1,0 +1,79 @@
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\obj\Debug\GameClient.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\obj\Debug\GameClient.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\bin\Debug\black.gif
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\bin\Debug\white.gif
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\bin\Debug\GameClient.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\bin\Debug\GameClient.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\obj\Debug\ResolveAssemblyReference.cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\obj\Debug\GameClient.FormPlaying.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\obj\Debug\GameClient.FormRoom.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameClient\GameClient\obj\Debug\GameClient.csproj.GenerateResource.Cache
+E:\mjbook\cs2\ch05\E02-SyncGame\GameClient\GameClient\bin\Debug\Resources\black.gif
+E:\mjbook\cs2\ch05\E02-SyncGame\GameClient\GameClient\bin\Debug\Resources\white.gif
+E:\mjbook\cs2\ch05\E02-SyncGame\GameClient\GameClient\bin\Debug\GameClient.exe
+E:\mjbook\cs2\ch05\E02-SyncGame\GameClient\GameClient\bin\Debug\GameClient.pdb
+E:\mjbook\cs2\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\ResolveAssemblyReference.cache
+E:\mjbook\cs2\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.FormPlaying.resources
+E:\mjbook\cs2\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.FormRoom.resources
+E:\mjbook\cs2\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+E:\mjbook\cs2\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.csproj.GenerateResource.Cache
+E:\mjbook\cs2\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.exe
+E:\mjbook\cs2\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameClient\GameClient\bin\Debug\Resources\black.gif
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameClient\GameClient\bin\Debug\Resources\white.gif
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameClient\GameClient\bin\Debug\GameClient.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameClient\GameClient\bin\Debug\GameClient.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\ResolveAssemblyReference.cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.FormPlaying.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.FormRoom.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.csproj.GenerateResource.Cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-23\05Z 第05章 TCP应用编程例题\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-23\05Z 第05章 TCP应用编程例题\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-23\05Z 第05章 TCP应用编程例题\E02-SyncGame\GameClient\GameClient\bin\Debug\Resources\black.gif
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-23\05Z 第05章 TCP应用编程例题\E02-SyncGame\GameClient\GameClient\bin\Debug\Resources\white.gif
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-23\05Z 第05章 TCP应用编程例题\E02-SyncGame\GameClient\GameClient\bin\Debug\GameClient.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-23\05Z 第05章 TCP应用编程例题\E02-SyncGame\GameClient\GameClient\bin\Debug\GameClient.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-23\05Z 第05章 TCP应用编程例题\E02-SyncGame\GameClient\GameClient\obj\Debug\ResolveAssemblyReference.cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-23\05Z 第05章 TCP应用编程例题\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.FormPlaying.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-23\05Z 第05章 TCP应用编程例题\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.FormRoom.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-23\05Z 第05章 TCP应用编程例题\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-23\05Z 第05章 TCP应用编程例题\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.csproj.GenerateResource.Cache
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.exe
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.pdb
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameClient\GameClient\bin\Debug\Resources\black.gif
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameClient\GameClient\bin\Debug\Resources\white.gif
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameClient\GameClient\bin\Debug\GameClient.exe
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameClient\GameClient\bin\Debug\GameClient.pdb
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.csprojResolveAssemblyReference.cache
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.FormPlaying.resources
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.FormRoom.resources
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameClient\GameClient\obj\Debug\GameClient.csproj.GenerateResource.Cache
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameClient\GameClient\bin\Debug\GameClient.exe.config
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameClient\GameClient\obj\Debug\GameClient.exe
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameClient\GameClient\obj\Debug\GameClient.pdb
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameClient\GameClient\bin\Debug\Resources\black.gif
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameClient\GameClient\bin\Debug\Resources\white.gif
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameClient\GameClient\bin\Debug\GameClient.exe
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameClient\GameClient\bin\Debug\GameClient.pdb
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameClient\GameClient\obj\Debug\GameClient.csprojResolveAssemblyReference.cache
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameClient\GameClient\obj\Debug\GameClient.FormPlaying.resources
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameClient\GameClient\obj\Debug\GameClient.FormRoom.resources
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameClient\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameClient\GameClient\obj\Debug\GameClient.csproj.GenerateResource.Cache
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameClient\GameClient\bin\Debug\GameClient.exe.config
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameClient\GameClient\obj\Debug\GameClient.exe
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameClient\GameClient\obj\Debug\GameClient.pdb
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameClient\GameClient\bin\Debug\Resources\black.gif
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameClient\GameClient\bin\Debug\Resources\white.gif
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameClient\GameClient\bin\Debug\GameClient.exe
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameClient\GameClient\bin\Debug\GameClient.pdb
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameClient\GameClient\obj\Debug\GameClient.csprojResolveAssemblyReference.cache
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameClient\GameClient\obj\Debug\GameClient.FormPlaying.resources
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameClient\GameClient\obj\Debug\GameClient.FormRoom.resources
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameClient\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameClient\GameClient\obj\Debug\GameClient.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GameServer.FormServer.resources
+obj\Debug\GameServer.Properties.Resources.resources
+obj\Debug\GameServer.csproj.GenerateResource.Cache
+bin\Debug\GameServer.exe
+bin\Debug\GameServer.pdb
+obj\Debug\GameServer.exe
+obj\Debug\GameServer.pdb

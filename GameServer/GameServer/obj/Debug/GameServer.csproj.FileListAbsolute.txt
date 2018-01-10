@@ -1,0 +1,51 @@
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameServer\GameServer\obj\Debug\GameServer.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameServer\GameServer\obj\Debug\GameServer.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameServer\GameServer\bin\Debug\GameServer.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameServer\GameServer\bin\Debug\GameServer.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameServer\GameServer\obj\Debug\ResolveAssemblyReference.cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameServer\GameServer\obj\Debug\GameServer.FormServer.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameServer\GameServer\obj\Debug\GameServer.Properties.Resources.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章\2008\例3-2 SyncGame\GameServer\GameServer\obj\Debug\GameServer.csproj.GenerateResource.Cache
+E:\mjbook\cs2\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.exe
+E:\mjbook\cs2\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.pdb
+E:\mjbook\cs2\ch05\E02-SyncGame\GameServer\GameServer\bin\Debug\GameServer.exe
+E:\mjbook\cs2\ch05\E02-SyncGame\GameServer\GameServer\bin\Debug\GameServer.pdb
+E:\mjbook\cs2\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\ResolveAssemblyReference.cache
+E:\mjbook\cs2\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.FormServer.resources
+E:\mjbook\cs2\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.Properties.Resources.resources
+E:\mjbook\cs2\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.csproj.GenerateResource.Cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameServer\GameServer\bin\Debug\GameServer.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameServer\GameServer\bin\Debug\GameServer.pdb
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\ResolveAssemblyReference.cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.FormServer.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.Properties.Resources.resources
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-12马老师修改\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.csproj.GenerateResource.Cache
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-23\05Z 第05章 TCP应用编程例题\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.exe
+E:\马老师\C#\C#网络应用高级编程\新改内容\第3章5\09-4-23\05Z 第05章 TCP应用编程例题\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.pdb
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.exe
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.pdb
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameServer\GameServer\bin\Debug\GameServer.exe
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameServer\GameServer\bin\Debug\GameServer.pdb
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.FormServer.resources
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.Properties.Resources.resources
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.csproj.GenerateResource.Cache
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameServer\GameServer\bin\Debug\GameServer.exe.config
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameServer\GameServer\obj\Debug\GameServer.exe
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameServer\GameServer\obj\Debug\GameServer.pdb
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameServer\GameServer\bin\Debug\GameServer.exe
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameServer\GameServer\bin\Debug\GameServer.pdb
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameServer\GameServer\obj\Debug\GameServer.FormServer.resources
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameServer\GameServer\obj\Debug\GameServer.Properties.Resources.resources
+E:\学科文档\网络编程实训\实现代码\wuziqi\GameServer\GameServer\obj\Debug\GameServer.csproj.GenerateResource.Cache
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameServer\GameServer\bin\Debug\GameServer.exe.config
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameServer\GameServer\obj\Debug\GameServer.exe
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameServer\GameServer\obj\Debug\GameServer.pdb
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameServer\GameServer\bin\Debug\GameServer.exe
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameServer\GameServer\bin\Debug\GameServer.pdb
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameServer\GameServer\obj\Debug\GameServer.FormServer.resources
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameServer\GameServer\obj\Debug\GameServer.Properties.Resources.resources
+E:\学科文档\网络编程实训\实现代码\五子棋游戏\GameServer\GameServer\obj\Debug\GameServer.csproj.GenerateResource.Cache
